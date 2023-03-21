@@ -31,3 +31,7 @@ cv2.imshow('dst5', dst5)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+print("git hub 연동 확인")
+
+
+
